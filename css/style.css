@@ -455,4 +455,41 @@ div {
    margin-left: 40px;
 }
 
+.introduction > .content {
 
+  background-image: url('../images/first_background.jpg');
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  padding: 0px 150px;
+  background-size: cover;
+  height: 45.938rem;
+  color: white;
+  text-align: center;
+}
+
+.introduction h1, .introduction h3 {
+
+    margin-top: 17.5rem;
+    font-size: 3.125rem;
+    color: white;
+    text-align: center;
+    font-weight: 300;
+}
+
+.introduction h3 {
+    margin-top: 1.25rem;
+    font-size: 1.563rem;
+}
+
+
+.big-button {
+    width: 9.688rem;
+    background-color: #f15a29;
+    border-color: #f15a29;
+    text-shadow: none;
+    border-style: none;
+    border-radius: 50px;
+    padding: 1rem 1.5rem;
+    color: white;
+    font-size: 1.125rem;
+}
